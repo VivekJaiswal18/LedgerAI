@@ -1,3 +1,18 @@
+## TurboTalk
+
+# Developer Documentation: Overview
+
+TurboTalk is a Next.js project that allows users to fetch blockchain data from The Graph and analyze it using GaiaNet's LLM-powered node. The project supports multiple blockchain protocols like Uniswap and CryptoPunks, providing users with protocol-specific data and insights, powered by GaiaNet's AI for analysis.
+[Click Here to access the node subdomains](https://www.gaianet.ai/gaia-domain-name)
+
+# Tools Used
+Frontend: Next.js with TypeScript)
+Backend: Next.js API routes, Axios for HTTP requests
+Data Fetching: The Graph API (GraphQL)
+AI Analysis: [GaiaNet’s Node LLM](https://www.gaianet.ai/gaia-domain-name)
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
